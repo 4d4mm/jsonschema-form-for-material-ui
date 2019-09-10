@@ -8,7 +8,8 @@
         {
           "title": "A string value",
           "type": "string",
-          "default": "lorem ipsum"
+          "default": "lorem ipsum",
+          "mui:outline": true
         },
         {
           "title": "a boolean value",
@@ -18,7 +19,8 @@
       "additionalItems": {
         "title": "Relations",
         "type": "string",
-        "default": ""
+        "default": "",
+        "mui:outline": true
       }
     }
   }
